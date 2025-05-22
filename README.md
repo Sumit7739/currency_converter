@@ -1,16 +1,27 @@
-# currency_converter
+# 💰 Currency Converter  
 
-A new Flutter project.
+A Flutter project I built while learning Flutter—because knowing how much your coffee costs in another country is surprisingly satisfying.  
 
-## Getting Started
+## Features  
+- Converts currency (because math is hard)  
+- Clean UI (because chaos is for backend errors)  
+- Quick and efficient (because time is money... literally)  
 
-This project is a starting point for a Flutter application.
+## Installation  
+Clone the repo:  
+```bash
+git clone https://github.com/Sumit7739/currency_converter.git
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Usage  
+1. Open the app.  
+2. Choose currencies.  
+3. Be amazed (or mildly unimpressed).  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Why?  
+I needed a Flutter project.  
+Because exchange rates matter.  
+Because why not?  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---  
+*"Money talks, and now it converts too."*  
